@@ -2,7 +2,7 @@ Kernel Methods Optimization
 ===========================
 
 ##About
-This thesis presents some kernel methods and their optimizations approaches. 
+This essay presents some kernel methods and their optimizations approaches. 
 
 ##Language
 Italian
